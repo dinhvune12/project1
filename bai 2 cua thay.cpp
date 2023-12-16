@@ -27,4 +27,4 @@ int main(){
 		printf("ko phai tam giac");
 	}
 }
-	}
+	}huynhtandinh
